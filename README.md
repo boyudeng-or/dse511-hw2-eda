@@ -14,7 +14,7 @@ Our World in Data — CO₂ and Greenhouse Gas Emissions
 09/07/2026
 
 ### Description
-This dataset contains historical co2 and emission data. Each row in the dataset represents the emission data for a country during a specific year. Description for each of the columns, the units and source data can be found at https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv. 
+This dataset contains historical co2 and emission data. Each row in the dataset represents the emission data for a country during a specific year. Description for each of the columns, the units, and sources of the data can be found at https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv. 
 
 
 ### Size
@@ -36,8 +36,9 @@ Creative Commons BY license
 TBD
 
 ## Collaboration
-We'll add notes on how we worked and the merge conflict later.
+MERGE CONFLICT HERE
 
 ## Reproducibility
 `Run All` button will run the notebook and reproduce all graphs.
+
 No dependencies or environments required.
