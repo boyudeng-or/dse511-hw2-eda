@@ -49,7 +49,7 @@ Overall: in this sample, several countries show declining or flat territorial em
 - Shared GitHub repo: https://github.com/boyudeng-or/dse511-hw2-eda
 - Partner A pushed cleaning in `eda.ipynb`; Partner B added EDA plots on branch `eda`
 - Boyu conflict-practice edit: I changed this Collaboration bullet first on purpose.
-
+- Mung-Shu: create branch just before latest commit, edit collaboration section, commit and push changes, and open pull request 
 ## Reproducibility
 1. Download `owid-co2-data.csv` from https://owid-public.owid.io/data/co2/owid-co2-data.csv and place it in the repo root (the CSV is listed in `.gitignore` because it is large).
 2. Install packages: `pip install pandas numpy matplotlib`
